@@ -1,0 +1,19 @@
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\bin\Debug\MegaManTextEditor.exe
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\bin\Debug\MegaManTextEditor.pdb
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.AboutBox1.resources
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.Form1.resources
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.Properties.Resources.resources
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.exe
+C:\Documents and Settings\Sandbox\my documents\visual studio 2010\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\bin\Debug\MegaManTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\bin\Debug\MegaManTextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.csprojResolveAssemblyReference.cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.Form1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Debug\MegaManTextEditor.csproj.GenerateResource.Cache

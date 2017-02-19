@@ -1,0 +1,8 @@
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\bin\Release\MegaManTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\bin\Release\MegaManTextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.Form1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.csproj.GenerateResource.Cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.pdb
