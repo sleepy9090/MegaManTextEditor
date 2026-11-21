@@ -6,3 +6,14 @@ F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManT
 F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.csproj.GenerateResource.Cache
 F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.exe
 F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.pdb
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\bin\Release\MegaManTextEditor.exe.config
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\bin\Release\MegaManTextEditor.exe
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\bin\Release\MegaManTextEditor.pdb
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.AboutBox1.resources
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.Form1.resources
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.exe
+C:\Users\Administrator\source\repos\MegaManTextEditor\MegaManTextEditor\obj\x86\Release\MegaManTextEditor.pdb
